@@ -1,7 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+# Hi there 👋
 
-<h3 align="center">I develop random stuff that is interesting (sometimes)</h3>
+I develop random websites and applications that could be useful someday (if I ever finish them).
+I am proficient in Typescript and Dart/Flutter and write both backend and frontend code. For more info on my projects check out my [website](https://guusvanmeerveld.dev).
 
-- 🔭 I’m currently working on Argo Magister
-- 🌱 I’m currently learning Flutter & dart
-- 📫 Add me on Discord: Xeeon#7590
+Be sure to check out my pinned repositories!
